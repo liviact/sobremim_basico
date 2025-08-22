@@ -50,6 +50,7 @@ nav ul li a {
     font-weight: bold;
     font-size: 1em;
     transition: color 0.3s ease;
+    text-decoration: underline;
 } 
 
 /* conteúdo principal */
