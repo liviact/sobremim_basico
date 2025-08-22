@@ -89,7 +89,7 @@ main ul li {
     background: #e6f2ff;
     margin: 8px auto;
     padding: 10px 15px;
-    border-radius: 8px;
+    border-radius: 10px;
     max-width: 400px;
     text-align: left;
     transition: background 0.3s;
